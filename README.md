@@ -12,10 +12,18 @@ I'm learning new things everyday.
 
 How to reach me: mail me ruslansaifullin91@gmail.com
 
+
 Technology stack
 
 Back-end
 
 Python Django Django Rest Framework Flask
 
+Databases
+
+Postgresql
+
+Tools
+
+Linux Git
 
