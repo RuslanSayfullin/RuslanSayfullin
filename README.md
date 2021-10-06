@@ -18,15 +18,15 @@ Technology stack:
 
 Back-end:
 
-Python Django Django Rest Framework Flask
+  Python Django Django Rest Framework Flask
 
 
 Databases:
 
-Postgresql
+  Postgresql
 
 
 Tools:
 
-Linux Git PyCharm
+  Linux Git PyCharm
 
