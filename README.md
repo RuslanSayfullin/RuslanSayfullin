@@ -16,17 +16,17 @@ How to reach me: mail me ruslansaifullin91@gmail.com
 Technology stack:
 
 
-Back-end
+Back-end:
 
 Python Django Django Rest Framework Flask
 
 
-Databases
+Databases:
 
 Postgresql
 
 
-Tools
+Tools:
 
 Linux Git PyCharm
 
