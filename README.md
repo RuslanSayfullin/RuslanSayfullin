@@ -56,7 +56,7 @@
 
 **Tools**
 
-![PyCharm](https://img.shields.io/badge/-%20%20%20%20PyCharm?style=flat-square&logo=jetbrains)
+![PyCharm](https://img.shields.io/badge/-PyCharm-%2300C7B7?style=flat-square&logo=PyCharm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
