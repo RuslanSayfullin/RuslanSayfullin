@@ -30,7 +30,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
@@ -51,13 +51,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-%232c3e50?style=flat-square&logo=react&logoColor=61DAFB)
 
 
 **Tools**
 
-![PyCharm](https://img.shields.io/badge/-PyCharm-%2300C7B7?style=flat-square&logo=PyCharm&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![PyCharm](https://img.shields.io/badge/PyCharm-3776AB?style=flat-square&logo=PyCharm)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
