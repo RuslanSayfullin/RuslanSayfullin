@@ -69,5 +69,5 @@
 
 **Learning**
 
-![GoLANG](https://img.shields.io/badge/-JAVA-grey?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-JAVA-yellow?style=flat-square&logo=java)
 
