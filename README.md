@@ -69,5 +69,5 @@
 
 **Learning**
 
-![Java](https://img.shields.io/badge/-JAVA-yellow?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-JAVA-yellow?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
