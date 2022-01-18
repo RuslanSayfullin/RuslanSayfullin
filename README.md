@@ -66,5 +66,5 @@
 
 **Learning**
 
-![Java](https://img.shields.io/badge/Rust-ED8B00?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ED8B00?style=flat-square&logo=rust&logoColor=white)
 
