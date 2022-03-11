@@ -33,8 +33,9 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-f8f2ef?style=flat-square&logo=RabbitMQ)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
 
 **Databases**
