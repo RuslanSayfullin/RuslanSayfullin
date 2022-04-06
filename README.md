@@ -68,6 +68,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%232c3e50?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
+![Apache](https://img.shields.io/badge/-Apache-f8f2ef?style=flat-square&logo=Apache&logoColor=orange)
 
 **Learning**
 
