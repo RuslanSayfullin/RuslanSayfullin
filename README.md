@@ -33,7 +33,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-f8f2ef?style=flat-square&logo=RabbitMQ)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
@@ -42,6 +41,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-f8f2ef?style=flat-square&logo=RabbitMQ)
 
 
 **Front-end**
