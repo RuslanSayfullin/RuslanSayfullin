@@ -74,3 +74,13 @@
 
 ![Rust](https://img.shields.io/badge/Rust-ED8B00?style=flat-square&logo=rust&logoColor=white)
 
+## About my Github:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruslansayfullin&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruslansayfullin&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruslansayfullin&theme=nord_bright) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruslansayfullin&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruslansayfullin&theme=nord_bright)
+
+
+
