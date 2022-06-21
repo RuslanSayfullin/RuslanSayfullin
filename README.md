@@ -56,7 +56,7 @@
 
 **Tools**
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-%232c3e50?style=flat-square&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
@@ -72,7 +72,7 @@
 
 **Learning**
 
-![Rust](https://img.shields.io/badge/Rust-ED8B00?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white)
 
 ## About my Github:
 
