@@ -1,5 +1,5 @@
 
-### Hi there, I'm Ruslan 👋
+### Hi there, I'm Ruslan  aka CryptoLis 👋  
  
 <img align="right" alt="GIF" src="https://github.com/RuslanSayfullin/RuslanSayfullin/blob/main/code.gif?raw=true" width="500" height="320" />
 
