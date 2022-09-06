@@ -71,7 +71,8 @@
 
 **Learning**
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 
 ## About my Github:
 
