@@ -50,6 +50,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-%232c3e50?style=flat-square&logo=Node.JS)
+![JQuery](https://img.shields.io/badge/JQuery-%232c3e50?style=flat-square&logo=JQuery&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-%232c3e50?style=flat-square&logo=react&logoColor=61DAFB)
 
 
