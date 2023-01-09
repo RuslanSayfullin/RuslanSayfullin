@@ -31,6 +31,8 @@
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
@@ -71,8 +73,8 @@
 
 **Learning**
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" width="30" height="30"/>&nbsp;
+
 
 ## About my Github:
 
