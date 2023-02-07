@@ -6,8 +6,8 @@
 ### I'm a Python Developer / Django, Flask Web Developer  !!!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with python for more than 3 years.
-- 🤔 I have been developing web apps on django/flask for more than 2 years.
+- 🌱 I have been working with python for more than 4 years.
+- 🤔 I have been developing web apps on django/flask for more than 3 years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ ruslansaifullin91@gmail.com
 
