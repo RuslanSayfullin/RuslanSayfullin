@@ -36,6 +36,7 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
+![Pytest](https://img.shields.io/badge/-Pytest-f8f2ef?style=flat-square&logo=Pytest)
 
 **Databases**
 
