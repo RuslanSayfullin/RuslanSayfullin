@@ -3,7 +3,7 @@
  
 <img align="right" alt="GIF" src="https://github.com/RuslanSayfullin/RuslanSayfullin/blob/main/code.gif?raw=true" width="500" height="320" />
 
-### I'm a Python Developer / Django, Flask Web Developer  !!!
+### I'm a Python Developer / Web Developer  !!!
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I have been working with python for more than 3 years.
