@@ -3,7 +3,7 @@
  
 <img align="right" alt="GIF" src="https://github.com/RuslanSayfullin/RuslanSayfullin/blob/main/code.gif?raw=true" width="500" height="320" />
 
-### I'm a Python Developer / Web Developer!
+### I'm a Software Engineer!
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I have been working with python for more than 3 years.
@@ -39,6 +39,7 @@
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
 ![Pytest](https://img.shields.io/badge/-Pytest-f8f2ef?style=flat-square&logo=Pytest)
 ![Poetry](https://img.shields.io/badge/-Poetry-%232c3e50?style=flat-square&logo=Poetry)
+![PyQT5](https://img.shields.io/badge/-PyQT5-%232c3e50?style=flat-square&logo=PyQT5)
 
 **Databases**
 
@@ -53,11 +54,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.JS](https://img.shields.io/badge/-Node.JS-%232c3e50?style=flat-square&logo=Node.JS)
 ![JQuery](https://img.shields.io/badge/JQuery-%232c3e50?style=flat-square&logo=JQuery&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-%232c3e50?style=flat-square&logo=react&logoColor=61DAFB)
-![Jest](https://img.shields.io/badge/Jest-6B8E23?style=flat-square&logo=Jest&logoColor=B22222)
 
 
 **Tools**
@@ -78,7 +75,6 @@
 **Learning**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" width="30" height="30"/>&nbsp;
-
 
 ## About my Github:
 
