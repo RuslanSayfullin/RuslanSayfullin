@@ -39,7 +39,6 @@
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
 ![Pytest](https://img.shields.io/badge/-Pytest-f8f2ef?style=flat-square&logo=Pytest)
 ![Poetry](https://img.shields.io/badge/-Poetry-%232c3e50?style=flat-square&logo=Poetry)
-![PyQT5](https://img.shields.io/badge/-PyQT5-%232c3e50?style=flat-square&logo=PyQT5)
 
 **Databases**
 
@@ -75,6 +74,8 @@
 **Learning**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="c++" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="30" height="30"/>&nbsp;
 
 ## About my Github:
 
