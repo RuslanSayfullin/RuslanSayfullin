@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I have been working with python for more than 3 years.
-- 🤔 I have been developing web apps on django/flask/fastapi for more than 2 years.
+- 🤔 I am developing applications for LinuxCNC and CNC machines.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ ruslansaifullin91@gmail.com
 
