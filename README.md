@@ -24,13 +24,17 @@
 
 ## Technology stack
 
+**Embedded Systems Programming**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="c++" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="30" height="30"/>&nbsp;
+
 **Back-end**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
@@ -68,12 +72,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%232c3e50?style=flat-square&logo=github)
 ![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-f8f2ef?style=flat-square&logo=Apache&logoColor=orange)
-
-**Learning**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="c" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="c++" width="30" height="30"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="30" height="30"/>&nbsp;
 
 ## About my Github:
 
