@@ -6,8 +6,8 @@
 ### I'm a Software Engineer!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with python for more than 3 years.
-- 🤔 I am developing applications for LinuxCNC and CNC machines.
+- 🌱 I have been working with python for more than 5 years.
+- 🤔 I have been developing web apps on fastapi/aiohttp/django more than 5+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ ruslansaifullin91@gmail.com
 
@@ -35,6 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
@@ -55,7 +56,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JQuery](https://img.shields.io/badge/JQuery-%232c3e50?style=flat-square&logo=JQuery&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=React)
 
 
 **Tools**
