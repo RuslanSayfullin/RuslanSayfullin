@@ -63,7 +63,7 @@
 
 **Tools**
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-%232c3e50?style=flat-square&logo=jetbrains)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
