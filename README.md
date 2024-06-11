@@ -6,8 +6,8 @@
 ### I'm a Software Engineer!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with python for more than 5 years.
-- 🤔 I have been developing web apps on fastapi/aiohttp/django more than 5+ years.
+- 🌱 I have been working with python for more than 3 years.
+- 🤔 I have been developing web apps on fastapi/aiohttp/django more than 2+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ ruslansaifullin91@gmail.com
 
