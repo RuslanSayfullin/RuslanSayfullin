@@ -54,10 +54,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-573D7C?style=flat-square&logo=Bootstrap&logoColor=whiter)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![JQuery](https://img.shields.io/badge/JQuery-%232c3e50?style=flat-square&logo=JQuery&logoColor=61DAFB)
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=React)
 
 
 **Tools**
