@@ -33,11 +33,12 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![AIOHTTP](https://img.shields.io/badge/-AIOHTTP-DD0031?style=flat-square&logo=AIOHTTP)
-![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy)
+![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-009696?style=flat-square&logo=SQLAlchemy)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E02020?style=flat-square&logo=Pydantic)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
 ![Pytest](https://img.shields.io/badge/-Pytest-f8f2ef?style=flat-square&logo=Pytest)
@@ -48,6 +49,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-f8f2ef?style=flat-square&logo=RabbitMQ)
+![MongoDB](https://img.shields.io/badge/-MongoDB-f8f2ef?style=flat-square&logo=MongoDB)
 
 
 **Front-end**
