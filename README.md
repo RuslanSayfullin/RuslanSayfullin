@@ -6,8 +6,8 @@
 ### I'm a Software Engineer!
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I have been working with python for more than 4 years.
-- 🤔 I have been developing apps more than 3+ years.
+- 🌱 I have been working with python for more than 10 years.
+- 🤔 I have been developing apps more than 5+ years.
 - 👯 I'm learning new things everyday.
 - 📫 How to reach me: mail me @ ruslansaifullin91@gmail.com
 
@@ -32,6 +32,7 @@
 
 **Back-end**
 
+![GoLANG](https://img.shields.io/badge/-GOLANG-grey?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
@@ -61,16 +62,17 @@
 
 **Tools**
 
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-
+![Ansible](https://img.shields.io/badge/-Ansible-ffce5a?style=flat-square&logo=Ansible)
 
 
 ![Linux](https://img.shields.io/badge/Linux-%232c3e50?style=flat-square&logo=linux)
 ![Vim](https://img.shields.io/badge/-Vim-0aad48?style=flat-square&logo=Vim)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%232c3e50?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Nginx](https://img.shields.io/badge/-Nginx-029339?style=flat-square&logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-f8f2ef?style=flat-square&logo=Apache&logoColor=orange)
 
