@@ -43,14 +43,13 @@
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-f8f2ef?style=flat-square&logo=Gunicorn)
 ![Pytest](https://img.shields.io/badge/-Pytest-f8f2ef?style=flat-square&logo=Pytest)
-![Poetry](https://img.shields.io/badge/-Poetry-%232c3e50?style=flat-square&logo=Poetry)
+![UV](https://img.shields.io/badge/-UV-%230F172A?style=flat-square&logo=uv)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-f8f2ef?style=flat-square&logo=RabbitMQ)
-![MongoDB](https://img.shields.io/badge/-MongoDB-f8f2ef?style=flat-square&logo=MongoDB)
 
 
 **Front-end**
